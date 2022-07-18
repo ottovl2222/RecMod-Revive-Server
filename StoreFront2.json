@@ -70,7 +70,7 @@
         {
           "GiftDropId": 615,
           "FriendlyName": "Dev Shirt",
-          "Tooltip": "Gone In 10m",
+          "Tooltip": "Gone In 9m",
           "AvatarItemDesc": "7a730848-ab20-445d-b416-1a72cab49324,,,",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
@@ -96,9 +96,9 @@
       "GiftDrops": [
         {
           "GiftDropId": 1163,
-          "FriendlyName": "Keep Warm Hat (White,Pink)",
+          "FriendlyName": "Space Visor (Orange?)",
           "Tooltip": "",
-          "AvatarItemDesc": "24c4404a-839f-46bd-98b6-6848d747a98b,c1e430c5-fd8d-4032-9e3f-8d87cc8784da,,",
+          "AvatarItemDesc": "KNZ1DvCLC0WHyH4opYAXtw,,,",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
           "EquipmentModificationGuid": "",
@@ -123,9 +123,9 @@
       "GiftDrops": [
         {
           "GiftDropId": 689,
-          "FriendlyName": "Saija Torso",
+          "FriendlyName": "Astronaut Helmet (Orange)",
           "Tooltip": "",
-          "AvatarItemDesc": "2c679f89-c76e-4cfb-94e9-448c8fd44d55,,,",
+          "AvatarItemDesc": "f218e2de-46fd-45b9-9e0e-670b6bb905e7,,,",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
           "EquipmentModificationGuid": "",
